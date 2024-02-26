@@ -1,0 +1,42 @@
+#Bulk Export - Points every 1 day(s),,
+"Grade Codes: -3 GAP,-2 Unusable, -1 Unspecified,0 Undefined,1 Unverified,4 Partial,5 Est. No Confidence,10 Est. Poor,11 Poor,20 Est. Fair,21 Fair,30 Est. Good,31 Good,40 Est. Very Good,41 Very Good,50 Est. Excellent,51 Excellent,1000 USGS data,2000 FDEP data,3000 LEGACY
+
+Interpolation Types: 1 Instantaneous Values, 2 Preceding Constant, 5 Preceding Totals, 6 Instantaneous Totals, 7 Discrete Values, 8 Succeeding Constant
+
+
+Data are provisional and subject to revision until they have been thoroughly reviewed and received final approval.
+
+Provisional data may be inaccurate due to instrument malfunctions or physical changes at the measurement site. Subsequent review based on field inspections and measurements may result in significant revisions to the data.
+
+Data users are cautioned to consider carefully the provisional nature of the information before using it for decisions that concern personal or public safety or the conduct of business that involves substantial monetary or operational consequences.
+
+Information concerning the accuracy and appropriate uses of these data or concerning other hydrologic data may be obtained by contacting the Office of the Ombudsman, ombudsman@nwfwater.com.",,
+,,11321
+,,Lake Jackson - Miller Landing Road
+,,Precip.Recorder
+Start of Interval (UTC),End of Interval (UTC),Total (in)
+2/3/2022 0:00,2/4/2022 0:00,0
+2/4/2022 0:00,2/5/2022 0:00,0.76
+2/5/2022 0:00,2/6/2022 0:00,0.06
+2/6/2022 0:00,2/7/2022 0:00,0
+2/7/2022 0:00,2/8/2022 0:00,0.09
+2/8/2022 0:00,2/9/2022 0:00,0.05
+2/9/2022 0:00,2/10/2022 0:00,0
+2/10/2022 0:00,2/11/2022 0:00,0
+2/11/2022 0:00,2/12/2022 0:00,0
+2/12/2022 0:00,2/13/2022 0:00,0
+2/13/2022 0:00,2/14/2022 0:00,0
+2/14/2022 0:00,2/15/2022 0:00,0
+2/15/2022 0:00,2/16/2022 0:00,0
+2/16/2022 0:00,2/17/2022 0:00,0
+2/17/2022 0:00,2/18/2022 0:00,0
+2/18/2022 0:00,2/19/2022 0:00,0.37
+2/19/2022 0:00,2/20/2022 0:00,0
+2/20/2022 0:00,2/21/2022 0:00,0
+2/21/2022 0:00,2/22/2022 0:00,0
+2/22/2022 0:00,2/23/2022 0:00,0
+2/23/2022 0:00,2/24/2022 0:00,0
+2/24/2022 0:00,2/25/2022 0:00,0
+2/25/2022 0:00,2/26/2022 0:00,0
+2/26/2022 0:00,2/27/2022 0:00,0
+2/27/2022 0:00,2/28/2022 0:00,0
