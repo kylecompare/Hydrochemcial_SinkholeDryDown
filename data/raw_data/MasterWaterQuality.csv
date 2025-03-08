@@ -1,4 +1,4 @@
-﻿ID,Location,Sampling time,dD vs vsmow,d18O vs vsmow,Lithium,Sodium,Ammonium ,Potassium,Magnesium,Calcium,Fluoride,Chloride,Nitrite,Bromide,Nitrate,Phosphate,Sulfate,pH,pOH,Total Alkalinity (mg/L as CaCO3),Bicarbonate,EC(us/cm),color
+﻿ID,Location,Sampling time,dD vs vsmow,d18O vs vsmow,Lithium,Sodium,Ammonium,Potassium,Magnesium,Calcium,Fluoride,Chloride,Nitrite,Bromide,Nitrate,Phosphate,Sulfate,pH,pOH,Total Alkalinity (mg/L as CaCO3),Bicarbonate,EC(us/cm),color
 LJ000,Porter Sink ,5/4/2021 13:00,15,3.48,0,2.44,0,1.077,1.812,3.56,0.1552,5.9191,0,0,0.1223,0,0,6.52,7.48,13.8,16.836,52.1,k
 LJ001,Porter Sink ,6/7/2021 13:49,25.9,6.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.11,8.89,2.8,3.416,44.5,k
 LJ002,Porter Sink ,6/8/2021 13:08,23.3,5.29,0,1.818,0,0.949,0.966,2.393,0.1882,4.67,0,0,0.213,0,0,6.55,7.45,6,7.32,32,k
@@ -89,7 +89,7 @@ MS006,Munson Slough/Eight Mile,8/30/2021 10:00,-12.1,-2.42,0,1.698,0,1.057,2.952
 MS007,Munson Slough/Eight Mile,9/2/2021 9:00,-13.8,-2.62,0,1.701,0.009,1.035,2.902,12.448,0,1.0844,0,0,0,0,1.0844,,,,,,g
 MS008,Munson Slough/Eight Mile,9/7/2021 9:10,-16.4,-2.72,0,1.743,0.07,1.09,3.052,13.118,0,2.4693,0,0,0,0,0.8931,,,,,,g
 MS009,Munson Slough/Eight Mile,9/9/2021 9:10,-21.4,-3.55,0,1.678,0.035,1.389,2.668,11.275,0.0866,3.0658,0,0,0,0,1.4732,,,,,,g
-MS010,Munson Slough/Eight Mile,9/13/2021 9:30,-44.5,-6.0,0,1.319,0,0.949,2.239,9.69,0,1.2983,0,0,0,0,0.7603,,,,,,g
+MS010,Munson Slough/Eight Mile,9/13/2021 9:30,-44.5,-6,0,1.319,0,0.949,2.239,9.69,0,1.2983,0,0,0,0,0.7603,,,,,,g
 MS011,Munson Slough/Eight Mile,9/16/2021 9:35,-43.5,-6.57,0,1.222,0,1.077,2.297,9.621,0,0.9872,0,0,0,0,0.4226,,,,,,g
 MS012,Munson Slough/Eight Mile,9/30/2021 9:15,-32.5,-4.8,0,1.641,0.061,0.914,2.974,12.105,0.0696,2.1635,0,0,0.1774,0,0.7809,,,,,,g
 MS013,Munson Slough/Eight Mile,10/7/2021 9:30,-31,-4.6,0,1.415,0,1.117,2.511,8.042,0,1.9578,0,0,0.0689,0,0.9006,,,,,,g
