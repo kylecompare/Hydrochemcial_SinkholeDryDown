@@ -11,3 +11,4 @@ The repository is organized into the following folders
 - code (holds all the code used in the analysis)
 - plots (stores all figures plotted using the code)
 
+Running the file code/1_Water_Quality.ipynb will produce all processed data files and the plots used in this analysis.
